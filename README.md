@@ -16,6 +16,7 @@ Then generate your new project:
 yo typescript-jest-sdk
 ```
 
+
 ## Getting To Know Yeoman
 
  * Yeoman has a heart of gold.
