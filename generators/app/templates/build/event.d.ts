@@ -2,7 +2,7 @@
  * ----------------------------------
  * @file event.ts
  * @desc 事件基类
- * @author Matrix <fangbo.fb@alibaba-inc.com>
+ * @author Matrix <18967131010@163.com>
  * @create: 2018/12
  * ----------------------------------
  */

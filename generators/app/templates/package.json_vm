@@ -11,7 +11,9 @@
     "tslint": "tslint -c tslint.json src/*.ts"
   },
   "keywords": [<% answers.keywords.split(',').forEach(function(value, index){ %> <%if (index!==0){%>,<%}%>"<%= value.trim() %>" <%})%>],
-  "author": "",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^23.3.14",
