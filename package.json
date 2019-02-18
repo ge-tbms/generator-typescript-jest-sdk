@@ -1,6 +1,6 @@
 {
   "name": "generator-typescript-jest-sdk",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "typescript, jest, sdk",
   "author": {
     "name": "matrix",
@@ -70,6 +70,6 @@
     "pretest": "eslint .",
     "test": "jest"
   },
-  "repository": "https://github.com/dkypooh/front-end-develop-demo.git",
+  "repository": "https://github.com/ge-tbms/generator-typescript-jest-sdk.git",
   "license": "MIT"
 }
