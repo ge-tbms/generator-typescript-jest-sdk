@@ -1,6 +1,6 @@
 {
   "name": "generator-typescript-jest-sdk",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "typescript, jest, sdk",
   "author": {
     "name": "matrix",
